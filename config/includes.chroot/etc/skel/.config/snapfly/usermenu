@@ -1,0 +1,6 @@
+# Usermenu config file format:
+# @CategoryName##/path/to/category/image.png
+# /path/to/command/in/CategoryName##/path/to/item/image.png##Item text##Description of Item
+# /path/to/command2/in/CategoryName##/path/to/item/image2.png##Item2 text##Description of Item2
+@ Quitter##/usr/share/icons/Faenza/actions/scalable/gnome-logout.svg
+/usr/bin/xfce4-session-logout##/usr/share/icons/Faenza/actions/scalable/gnome-logout.svg##Quitter...##Fermer la session, éteindre, mettre en veille ou redémarrer
