@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="stashes" mtime="1389625406" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="filemanager" mtime="1389625406" type="string">
+		<stringvalue>thunar</stringvalue>
+	</entry>
+	<entry name="idletimeout" mtime="1389625406" type="int" value="15"/>
+	<entry name="keep_mountpoints" mtime="1389625406" type="bool" value="false"/>
+	<entry name="allow_other" mtime="1389625406" type="bool" value="false"/>
+</gconf>
